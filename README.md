@@ -11,3 +11,9 @@ Licensed material included in DAE; otherwise, I license this source under GPL. P
 Date: Monday, October 1st, 12.000AM.
 
 Initiate sequence...
+
+Date: Monday, October 1st, 12.000AM.
+
+play:http://www.typescriptlang.org/Playground/
+
+Use book schema for tabs, notes, and scala.
