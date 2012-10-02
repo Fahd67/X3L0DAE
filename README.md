@@ -3,6 +3,10 @@ X3L0DAE
 
 Pronounced: "cello day"
 
+Link: [Goals](https://github.com/Dzonatas/X3L0DAE/wiki/GOALS)
+
+---
+
 > Date: Monday, October 1st, 11.808AM.
 
   Licensed material included in DAE; otherwise, I license this source under GPL. Public domain is preferred over LGPL.
@@ -20,7 +24,7 @@ Use book schema for tabs, notes, and scala.
 
 > Date: Monday, October 1st, 6.30PM.
 
-.dae/unicode.ascii: The complete file is impossible, so we want to build sparse files from this with valid assets. The .dae directory lets us manipulate file.dae types by character techniques and profiles.
+.dae/unicode.ascii: The complete file is impossible, so we want use sparse allocation for valid assets. The .dae directory lets us manipulate file.dae types by character techniques and profiles.
 
 > Date: Monday, October 1st, 7PM.
 > Date: Monday, October 1st, 7.10PM.
