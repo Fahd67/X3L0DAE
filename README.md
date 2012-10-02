@@ -23,5 +23,6 @@ Use book schema for tabs, notes, and scala.
 .dae/unicode.ascii: The complete file is impossible, so we want to build sparse files from this with valid assets. The .dae directory lets us manipulate file.dae types by character techniques and profiles.
 
 > Date: Monday, October 1st, 7PM.
+> Date: Monday, October 1st, 7.10PM.
 
-[xs:String := xs:StringOfCharacters // Update: transitition to DAE files from XML paradigms.]
+[xs:String := xs:StringOfCharacters].Scalar... //update: use scalable interfaces
