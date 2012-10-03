@@ -5,6 +5,8 @@ Pronounced: "cello day"
 
 Link: [Goals](https://github.com/Dzonatas/X3L0DAE/wiki/GOALS)
 
+Code: [URN:BIT#](URN:BIT#)
+
 ---
 
 > Date: Monday, October 1st, 11.808AM.
