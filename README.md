@@ -7,6 +7,21 @@ Link: [Goals](https://github.com/Dzonatas/X3L0DAE/wiki/GOALS)
 
 Code: [URN:BIT#](URN:BIT#), gist:<976189>, rel=https://gist.github.com/.
 
+GET jsLinux https://gist.github.com/976189
+
+```
+Wrap github's wiki & front-end with jsLinux instead of PHP:
+  {
+  IPL:/jslinux.json?...,root=gh-pages,mount("localStorage","rw+C")=git:branch:TOKEN,page="cello day"
+  User-Agent: {"User": _; "Agent": _;}.CSS
+
+  [Program: /* C# ClientScript(@_)...(assembly) */]
+  "OOPS..." (try simplier sign-on/sign-off implementations, "catch" @_..., @_..., @_...)
+
+  "Strung#."
+  }.
+```
+
 ---
 
 > Date: Monday, October 1st, 11.808AM.
