@@ -3,24 +3,38 @@ X3L0DAE
 
 Pronounced: "cello day"
 
-Link: [Goals](https://github.com/Dzonatas/X3L0DAE/wiki/GOALS)
-
+Link: [Goals](https://github.com/Dzonatas/X3L0DAE/wiki/GOALS)<br/>
+Link: (Atomatrix)[http://atomatrix.sourceforge.net/], Jonathan Ballard.<br/>
 Code: [URN:BIT#](URN:BIT#), gist:<976189>, rel=https://gist.github.com/.
 
-GET jsLinux https://gist.github.com/976189
+Wrap github's wiki & front-end with jsLinux instead of PHP:
 
 ```
-Wrap github's wiki & front-end with jsLinux instead of PHP:
+POST git:/TOKEN.JSON [https://gist.github.com/976189]
   {
-  IPL:/jslinux.json?...,root=gh-pages,mount("localStorage","rw+C")=git:branch:TOKEN,page="cello day"
-  User-Agent: {"User": _; "Agent": _;}.CSS
+  IPL: /jslinux.json?root=gh-pages,mount("localStorage","rw+C")=git:branch:TOKEN("JS++:",0x),page="cello day",...
+  User-Agent: {"User": 0_; "Agent": 0x_;}.CSS
 
   [Program: /* C# ClientScript(@_)...(assembly) */]
   "OOPS..." (try simplier sign-on/sign-off implementations, "catch" @_..., @_..., @_...)
 
-  "Strung#."
+  "Strung#." (Accept: text/xml+json, application/posix+ECMA, static-entities/URN,IHAVE,SENDME, {LINQ:_}.)
   }.
 ```
+
+"IHAVE/SENDME" is well-known in USENET transport protocols. I already implemented "->" code in Atomatrix.
+
+```
+POST /. _/#.#
+Vary: _, IHAVE, #.#, SENDME.
+Prefer: HTTP, SMTP, NNTP:Distribution:(.UUCP|.TLD|...), ...UDP.NET.
+
+UDP -> JSON; {IHAVE:[_,.,.,.]; SENDME:[_,.,.,.];}.CSS.
+CSS -> ihave, sendme; ...
+...
+```
+
+We could target <code>data:</code> as the default device instead of localStorage while offline, with the above encoded into C=string format. The scripts for jsLinux could be stored in one UDP.NET(.exe) redistributable, and it could use "Application Data" instead of "localStorage." I wrote BIT representations in the wiki as unordered numeric regressions, and it is useful for money if you use your decimal values.
 
 ---
 
