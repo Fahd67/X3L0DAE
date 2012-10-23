@@ -7,7 +7,7 @@ Link: [Goals](https://github.com/Dzonatas/X3L0DAE/wiki/GOALS)<br/>
 Link: [Atomatrix](http://atomatrix.sourceforge.net/), Jonathan Ballard.<br/>
 Code: [URN:BIT#](URN:BIT#), gist:<976189>, rel=https://gist.github.com/.
 
-Wrap github's wiki & front-end with jsLinux instead of PHP:
+Wrap github's wiki & front-end with jsLinux instead of {PHP}: [https://github.com/github/gollum]
 
 ```
 POST git:/TOKEN.JSON [https://gist.github.com/976189]
