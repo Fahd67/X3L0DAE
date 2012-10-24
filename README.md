@@ -10,7 +10,7 @@ Code: [URN:BIT#](URN:BIT#), gist:<976189>, rel=https://gist.github.com/.
 Wrap github's wiki & front-end with jsLinux instead of {PHP}: [https://github.com/github/gollum]
 
 ```
-POST git:/TOKEN.JSON [https://gist.github.com/976189]
+POST git:/TOKEN.JSON [HTTP/2.0](http://github.com/http2) 
   {
   IPL: /jslinux.json?root=gh-pages,mount("localStorage","rw+C")=git:branch:TOKEN("JS++:",0x),page="cello day",...
   User-Agent: {"User": 0_; "Agent": 0x_;}.CSS
