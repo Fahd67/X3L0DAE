@@ -6,6 +6,7 @@ Pronounced: "cello day"
 Link: [Goals](https://github.com/Dzonatas/X3L0DAE/wiki/GOALS)<br/>
 Link: [Atomatrix](http://atomatrix.sourceforge.net/), Jonathan Ballard.<br/>
 Code: [URN:BIT#](URN:BIT#), gist:<976189>, rel=https://gist.github.com/.
+Code: ![{QR-CODE:}](http://www.google.com/chart?chs=150x150&cht=qr&chl=http://icesphere.googlecode.com/files/Icesphere-0.10.2.4-Windows-Setup.exe&chld=L|1&choe=UTF-8)
 
 Wrap github's wiki & front-end with jsLinux instead of {PHP}: [https://github.com/github/gollum]
 
@@ -35,6 +36,8 @@ CSS -> ihave, sendme; ...
 ```
 
 We could target <code>data:</code> as the default device instead of localStorage while offline, with the above encoded into C=string format. The scripts for jsLinux could be stored in one UDP.NET(.exe) redistributable, and it could use "Application Data" instead of "localStorage." I wrote BIT representations in the wiki as unordered numeric regressions, and it is useful for money if you use your decimal values.
+
+Scalar interface already implemented in code. ("[].Scalar")
 
 ---
 
