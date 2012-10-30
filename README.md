@@ -37,7 +37,7 @@ CSS -> ihave, sendme; ...
 
 We could target <code>data:</code> as the default device instead of localStorage while offline, with the above encoded into C=string format. The scripts for jsLinux could be stored in one UDP.NET(.exe) redistributable, and it could use "Application Data" instead of "localStorage." I wrote BIT representations in the wiki as unordered numeric regressions, and it is useful for money if you use your decimal values.
 
-Scalar interface already implemented in code. ("[].Scalar")
+Scalar interface already implemented in code. ("[QR].Scalar")
 
 ---
 
