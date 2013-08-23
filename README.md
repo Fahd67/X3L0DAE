@@ -61,6 +61,11 @@ Use book schema for tabs, notes, and scala.
 .dae/unicode.ascii: The complete file is impossible, so we want use sparse allocation for valid assets. The .dae directory lets us manipulate file.dae types by character techniques and profiles.
 
 > Date: Monday, October 1st, 7PM.
-> Date: Monday, October 1st, 7.10PM.
+> Date: Monday, October 1st, 7.10PM., 2012
 
 [xs:String := xs:StringOfCharacters].Scalar... //update: use scalable interfaces
+
+> Date: Friday, August 23rd, 3:30PM.
+> Date: 2013
+
+Introspection: "https://github.com/mono/monodevelop/commit/2b726e967a71f438cf9a3affe482fa20785f7e74"
