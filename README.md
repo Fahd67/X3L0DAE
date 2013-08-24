@@ -69,3 +69,7 @@ Use book schema for tabs, notes, and scala.
 > Date: 2013
 
 Introspection: "https://github.com/mono/monodevelop/commit/2b726e967a71f438cf9a3affe482fa20785f7e74"
+
+> Date: Friday, August 23rd, 7PM
+
+Code: Link: (https://github.com/mono/mono/commit/3b846d3d4cd2f4aa5bf009ea4ba3b4acb2e29516)
