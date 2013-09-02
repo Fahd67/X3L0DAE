@@ -73,3 +73,8 @@ Introspection: "https://github.com/mono/monodevelop/commit/2b726e967a71f438cf9a3
 > Date: Friday, August 23rd, 7PM
 
 Code: Link: (https://github.com/mono/mono/commit/3b846d3d4cd2f4aa5bf009ea4ba3b4acb2e29516)
+
+> Date: Monday, September 2nd, 9:30AM
+
+"Java.gitignore"(https://github.com/github/gitignore/blob/master/Java.gitignore,".ear") ;
+
